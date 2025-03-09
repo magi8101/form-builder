@@ -34,7 +34,7 @@ Want to test it out? Follow these steps:
 
 ```sh
 # Clone the repo
-$ git clone https://github.com/yourusername/form-builder.git
+$ git clone https://github.com/magi8101/form-builder.git
 
 # Move into the project directory
 $ cd form-builder
